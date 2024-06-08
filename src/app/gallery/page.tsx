@@ -9,7 +9,7 @@ const CssGrid = () => {
   const imageStyle =
     "bg-neutral-100 border-2 rounded-xl p-2 flex flex-col items-center justify-center";
 
-  const openImage = (index) => {
+  const openImage = (index: any) => {
     setSelectedImageIndex(index);
   };
 
