@@ -20,9 +20,9 @@ export default function Detail() {
       {/* Detail 2 */}
       <div className="w-full lg:w-[450px] h-[400px] border border-gray-500 rounded-lg shadow-md flex flex-col justify-center items-center gap-3 p-4">
         <LiaIndustrySolid className="w-16 h-16 text-green-400" />
-        <h1 className="text-2xl lg:text-3xl">Branch Office</h1>
-        <p>5th Floor, Plaza Building, Jamal,</p>
-        <span>Kathmandu, Nepal</span> 
+        <h1 className="text-2xl lg:text-3xl">Industry</h1>
+        {/* <p>5th Floor, Plaza Building, Jamal,</p> */}
+        <span>Sarlahi, Nepal</span> 
         <a href="mailto:info@bakas.com.np">info@bakas.com.np</a>
         <a href="tel:+977-01-5111032">+977-01-5111032</a>
         <a href="tel:+977-9765545315">+977-9765545315</a>
